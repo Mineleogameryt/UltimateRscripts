@@ -50,6 +50,16 @@ elseif game.PlaceId == 8888615802 then
 --nico's nextbots
 elseif game.PlaceId == 10118559731 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/script/main/nico'snextbot.lua"), true))()
+--Pet sim x
+elseif game.PlaceId == 6284583030 then
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Mineleogameryt/psx/main/Script.lua"), true))()
+--Prison life
+elseif game.PlaceId == 155615604 then
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Mineleogameryt/prisonlfr/main/Script.lua"), true))()
+elseif game.PlaceId == 155615604 then
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Mineleogameryt/prisonlfr/main/Script1.lua), true))()
+elseif game.PlaceId == 155615604 then
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Mineleogameryt/prisonlfr/main/Script2.lua), true))()   
 --universal
 else
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/script/main/Universal.lua"), true))()
