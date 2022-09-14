@@ -62,5 +62,5 @@ elseif game.PlaceId == 155615604 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Mineleogameryt/prisonlfr/main/Script2.lua), true))()   
 --universal
 else
-   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/script/main/Universal.lua"), true))()
+   loadstring(game:HttpGet((https://raw.githubusercontent.com/Mineleogameryt/vg/main/Script.lua"), true))()
 end
